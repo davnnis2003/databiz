@@ -1,0 +1,210 @@
+   
+Contact
+jimmy.pang2022@proton.me
+www.linkedin.com/in/jimmy-pang-
+hk603 (LinkedIn)
+substack.com/@jimmypang (Blog)
+Top Skills
+Text-to-Speech
+Vibe Coding
+Git
+Languages
+Japanisch (Elementary)
+English (Professional Working)
+German (Limited Working)
+Cantonese (Native or Bilingual)
+Mandarin (Professional Working)
+Deutsch (Limited Working)
+Certifications
+Data Visualization with Tableau
+Tableau Desktop Specialist
+Data Analyst with Python Track
+Learning Python 2
+Publications
+The voice of data among C-Level
+executives — A book review of The
+Chief Data Officer’s Playbook Jimmy
+Pang
+Data Science 101 for Startups-
+Aggregation in SQL — Part 1
+Data Science in a nutshell
+5 Tips To Improve Collaboration
+Between Data and Business Teams
+How to work with Google Analytics
+data in BigQuery
+Jimmy Pang
+Data Leader | Snowflake/dbt/Airflow/SQL/BI | Berlin Startups
+#OpenToWork – 80% Fraud (Trust), 50% CS (Ops), $24M Payments
+(Finance), 20% Auth (Warehouse)
+Berlin, Berlin, Germany
+Summary
+Leader accelerating Berlin startups with Snowflake/dbt/Airflow/SQL/
+BI. Ex-Vestiaire: 80% fraud reduction (Trust), 50% CS speedup
+(Ops), $24M payments redesign (Finance), 20% auth boost
+(Warehouse). Targeting Head of Data/Team Lead hybrid/remote—
+Bolt, Vinted, logistics/ecom/SaaS priority. 8+ yrs scaling teams/data
+infra @Delivery Hero/HelloFresh/Foodpanda.
+Data Biz Substack founder: Practical leadership insights (dbt
+evolution, C-level data voice). Data Berlin Meetup regular.
+Open to chats—DM for collabs or roles!
+Experience
+Data Biz (Substack)
+Founder & Author
+December 2025 - Present (6 months)
+Data Biz is my Substack publication delivering strategic insights on data
+leadership, team building, stakeholder management, and turning data into
+measurable business impact. Drawing from 7+ years leading BI teams at
+Foodpanda, Delivery Hero, HelloFresh, and Vestiaire Collective, I share real-
+world lessons on people, process, and tools for data-driven transformations—
+without the ML jargon.
+Key topics covered:
+- Data strategy roadmaps and organizational alignment
+- Frontline experiences bridging data teams with business outcomes
+- Modern analytics engineering trends like dbt evolution and data marts
+Launched from Berlin in late 2025, it's for data leaders seeking
+practical guidance over technical tutorials. Follow for weekly posts:
+jimmypang.substack.com.
+  Page 1 of 5
+   
+Vestiaire Collective
+Business Intelligence Lead
+November 2021 - January 2026 (4 years 3 months)
+Berlin, Germany
+- Built BI squad from scratch: Hired 3 Analytics Engineers (2 direct),
+onboarded/mentored team + embedded analysts (Snowflake/dbt 4yrs
+expertise).
+- Owned analytical roadmap across Operations, Sustainability, Consignment,
+Resale-As-A-Service; ensured synergy between Business, Product, Tech, and
+Data teams.
+- Forged partnerships with senior executives (COO, CFO, CTO): Delivered
+transparent stakeholder management and quarterly roadmaps using
+MoSCoW/NOW-NEXT-LATER frameworks.
+- Accelerated data product delivery (marts, dashboards) via tailored Agile
+Scrum (2-week sprints): Reduced backlog turnaround 84% (8 to 4 weeks).
+- Drove key business impacts: 80% fraud incident reduction (Trust & Safety),
+50% CS response time improvement (48-24hrs, Ops award), $24M payments
+infrastructure redesign (Finance), 20% authentication speedup (Warehouse,
+500K listings).
+- Elevated data visualization and governance: Hands-on mentorship/SOPs,
+Elementary DQ checks/alerts, dbt Exposures for P0 asset automation.
+- Led Data Mesh pilot (Amazon 6-pager pitch): Partnered on SSoT/KPI
+certification across CRM/Ops/Marketing, enabling Airflow autonomy.
+HelloFresh
+5 months
+Product Analytics - Global Supply Chain Management Tech | Logistics
+June 2021 - October 2021 (5 months)
+Berlin, Germany
+- Owned analytics for global Logistics products (18 countries): Built source-
+of-truth dashboards for on-time/late delivery (OTLD) and Metapack latency
+tracking.
+- Led analytical strategy: Explored ad-hoc topics, documented reproducible
+insights via dashboards (Tableau/BigQuery).
+- Collaborated with Product/Tech leads (Product Lead/Owner, Tech Lead):
+Guided development direction, empowered local Logistics Managers for ad-
+hoc analysis.
+- Gatekept data quality for downstream decisions; shared best practices in
+Analytics chapter (reporting standards, data literacy).
+  Page 2 of 5
+   
+- Enabled demand shaping, fulfillment opt, last-mile delivery via cross-
+functional analytics (SCM executives).
+Product Analyst
+June 2021 - October 2021 (5 months)
+Supply chain analytics (global scope): Product analytics for HelloFresh's
+global supply chain operations across 16-18 countries + US. Built logistics
+dashboards to establish source of truth for on-time/late delivery metrics
+and exposed Metapack Event Latency data to enable carrier performance
+monitoring.
+Delivery Hero SE
+2 years 10 months
+Business Intelligence Analyst - Global Vendor Logistics Products
+August 2018 - May 2021 (2 years 10 months)
+Berlin, Berlin, Deutschland
+- Led data for Global Vendor Logistics: Partnered Product Owners/Tech Leads/
+Execs on KPIs, dashboards (Tableau/Looker/Metabase), A/B tests (GA/
+Firebase/GTM).
+- Built Data Warehouse from scratch (ETL/ELT, BigQuery/Python/Airflow
+modeling); migrated to Git/CI-CD/Sanity/Catalog (Gitbook)—foundation for
+Data Mesh blueprint.
+- Democratized self-service analytics (Looker/Tableau): Trained users, cut
+central team dependency for 200+ stakeholders (Product/Ops/Eng).
+- Pioneered Agile project mgmt (Kanban→Scrum, Confluence docs):
+Streamlined data delivery.
+- Co-founded Data Guild (200+ global members, 50 countries): Hosted ML/
+data eng meetups, CTO-endorsed knowledge sharing.
+Business Intelligence Analyst
+August 2018 - May 2021 (2 years 10 months)
+Founded BI infrastructure for Vendor Logistics vertical—built Data Warehouse
+from scratch (leveraging Foodpanda domain expertise) to solve data
+infrastructure gap (5 AWS regions, monolithic backend). Architected greenfield
+GCP → BigQuery migration with Airflow + CI/CD, delivered few hundred
+data models and source-of-truth dashboards for 200+ users—decentralized
+architecture became blueprint for Delivery Hero's Data Mesh strategy.
+foodpanda
+Business Intelligence Analyst
+March 2017 - July 2018 (1 year 5 months)
+  Page 3 of 5
+   
+Hong Kong
+- Owned end-to-end analytics for Hong Kong market: Solo BI delivering
+insights for Ops/Marketing/Finance/BD.
+- Drove 22% order growth + 10% GMV via campaign analysis; optimized
+courier recruitment (CR/cohort/fill-rates) despite weather/festivals.
+- Facilitated exec decisions: Hotspot reports for marketing zones, delivery
+sizing.
+- Boosted data literacy: Created KPIs/dashboards (10-15 Tableau), trained
+team on alignment/usage.
+- Automated reporting (PostgreSQL/VBA/PostGIS); collaborated HQ on ML
+algos/staffing (Rider CRs), flagged dashboard issues—led to DH referral
+Foodpanda|Foodora
+Business Intelligence Analyst
+March 2017 - July 2018 (1 year 5 months)
+Solo BI Analyst for Hong Kong market (post-Delivery Hero acquisition)
+—owned end-to-end analytics for Operations (courier recruitment/fleet
+dashboards/compliance/payslip), Marketing/Account Management, Finance,
+and Business Development. Drove 22% order growth and 10% GMV increase
+through campaign analysis, optimized courier recruitment for fleet capacity
+(%CRs, cohort, fill-rates), improved staffing algorithms by identifying blind
+spots (weather, festivals, campaigns), and delivered order hotspot analysis for
+delivery zone optimization.
+Hayes-Corp
+Revenue Operation Specialist
+October 2014 - March 2017 (2 years 6 months)
+Hong Kong
+- Monetized 30k+ mobile games: Managed ad inventory (Banner/Fullscreen/
+Rewarded Video) across vendors (Google DFP/AdX/AdMob, FB/Twitter/
+AdColony).
+- Optimized profitability: Monitored Impressions/eCPM/Revenue/Sessions;
+maximized session utilization.
+- Led revenue ops for 4 PRC teams (Chengdu/Guangzhou/Nanjing/Kunming):
+Aggregated overviews to C-level.
+- Troubleshot end-to-end: Ad policy disputes, issues flow with Tech/Brand/
+Product; managed 1 junior
+Ka Kong Trading Company
+eCommerce Executive
+  Page 4 of 5
+   
+August 2012 - August 2014 (2 years 1 month)
+Hong Kong
+- eCommerce Operation
+1. Boost up 20% ~ 30% of GMV by well-organizing tech resources and
+introduced cloud management tools
+2. Bring 4 eBay accounts performance to be Top-Rated Seller level in US, UK
+and AU markets
+Provide satisfying customer service experience promptly through eBay inmail
+system
+3. Generate insight into market on eBay and Amazon with built-in analytics
+tools and CSV exports
+- Logistics Operation
+1. Processing delivery orders accurately and assist in the logistic process
+2. Keep track of delivery status accurately and update the customer in a timely
+manner
+Education
+De Montfort University
+Bachelor of Business Administration (B.B.A.), Business Administration and
+Management, General · (2013 - 2014)
+Community College of City University
+Associate's Degree, Accounting · (2010 - 2013)
+De Montfort University
+Bachelor of Business Administration 
+  Page 5 of 5
