@@ -15,7 +15,7 @@ This document defines the "vibe" for Data Biz. Use these instructions when gener
 
 ## 2. Visual Design System
 
-The visual "vibe" and design system are defined in `docs/prompts/DESIGN.md`. Always refer to that document for color palettes, typography, and layout principles.
+The visual "vibe" and design system are defined in [DESIGN.md](../prompts/DESIGN.md). Always refer to that document for color palettes, typography, and layout principles.
 
 ## 3. Coding Principles
 
