@@ -200,7 +200,7 @@ Supporting line should sound direct, not salesy.
 - click_offer_3_cta
 - click_substack_link
 - click_linkedin_link
-- view_calendly
+- view_booking_calendar
 - submit_contact
 - scroll_50
 - scroll_75
