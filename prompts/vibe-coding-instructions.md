@@ -32,7 +32,7 @@ When coding interfaces that display content (like the "Insights" section):
 
 ## 5. Analytics & Conversion
 
-- **Primary Goal:** Discovery Call bookings (Calendly).
+- **Primary Goal:** Discovery Call bookings (Google Calendar).
 - **Secondary Goal:** Substack subscriptions / Lead magnet downloads.
 - **Events:** Wire up CTA clicks and scroll depth to track interest.
 
