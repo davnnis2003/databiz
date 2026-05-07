@@ -250,6 +250,12 @@ nav a:hover {
     grid-template-columns: repeat(auto-fit, minmax(320px, 1fr));
     gap: var(--space-xl);
     margin-top: var(--space-lg);
+    transition: opacity 0.5s ease;
+}
+
+.insights-grid.loading {
+    opacity: 0.5;
+    pointer-events: none;
 }
 
 .insight-card {
