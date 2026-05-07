@@ -2,20 +2,13 @@
 
 This document defines the "vibe" for Data Biz. Use these instructions when generating code, design, or content to ensure consistency with the brand's senior, operator-led positioning.
 
-## 1. Brand Identity & Persona
+## 1. Brand Soul
 
-- **Brand Name:** Data Biz
-- **Positioning:** Senior Data & AI consultancy for executives, data leaders, and operators in eCom/Marketplaces.
-- **Value Prop:** "Fixing the decisions behind the dashboards."
-- **Tone of Voice:** 
-    - **Blunt & Practical:** No corporate jargon or "AI fluff."
-    - **Senior & Calm:** Peer-to-peer communication with C-suite.
-    - **Operator-Led:** Grounded in real-world experience (e.g., "I've run these teams in Berlin eCom").
-- **Banned Words:** `empower`, `unlock`, `revolutionize`, `journey`, `cutting-edge`, `seamless`, `world-class`, `innovative solutions`.
+The core identity, positioning, and tone of voice are defined in [SOUL.md](SOUL.md). Always refer to this for the brand's persona.
 
 ## 2. Visual Design System
 
-The visual "vibe" and design system are defined in [DESIGN.md](../prompts/DESIGN.md). Always refer to that document for color palettes, typography, and layout principles.
+The visual "vibe" and design system are defined in [DESIGN.md](DESIGN.md). Always refer to that document for color palettes, typography, and layout principles.
 
 ## 3. Coding Principles
 
